@@ -955,7 +955,7 @@ section {
 }
 
 .pricing .box:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
 }
 
@@ -1024,6 +1024,25 @@ section {
 .pricing .btn-buy:hover {
   background: #4154f1;
   color: #fff;
+}
+
+.pricing .btn-buy2 {
+    display: inline-block;
+    padding: 8px 40px 10px 40px;
+    border-radius: 50px;
+    color: #4154f1;
+    transition: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    transition: 0.3s;
+    border: 1px solid #4154f1;
+}
+
+.pricing .btn-buy2:hover {
+    background: beige;
+    color: black;
 }
 
 .pricing .featured {
