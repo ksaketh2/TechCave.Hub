@@ -1035,7 +1035,7 @@ section {
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #4154f1;
+  background: orange;
   color: #fff;
 }
 
@@ -1592,9 +1592,10 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #444444;
-  background: #fafbff;
-  padding: 30px;
+    color: #444444;
+    background: #fafbff;
+    padding: 30px;
+    position:center;
 }
 
 .contact .info-box i {
