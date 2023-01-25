@@ -999,8 +999,9 @@ section {
 }
 
 .pricing ul li {
-  padding-bottom: 10px;
-}
+    padding-bottom: 10px;
+    font-family: "Nunito", sans-serif;
+ }
 
 .pricing ul .na {
   color: #ccc;
